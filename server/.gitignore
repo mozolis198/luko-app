@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+secrets/*.json
+!secrets/.gitkeep
+*.log
